@@ -1,4 +1,4 @@
-# YouTube-concept - учебныйй проект GloAcademy
+# YouTube-concept - учебный проект GloAcademy
 Проект выполнила: Кристина Солдатова
 
 
